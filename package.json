@@ -1,0 +1,18 @@
+{
+  "name": "camo-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Medium contrast theme with slightly subdued, earthly colours.",
+  "keywords": [
+    "syntax",
+    "amber",
+    "olive",
+    "gold",
+    "dark"
+  ],
+  "repository": "https://github.com/protesilaos/camo-dark-syntax",
+  "license": "GPL-3.0",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
